@@ -1,0 +1,10 @@
+/Users/simon/code/codedemo/bin/Debug/netcoreapp2.0/codedemo.deps.json
+/Users/simon/code/codedemo/bin/Debug/netcoreapp2.0/codedemo.runtimeconfig.json
+/Users/simon/code/codedemo/bin/Debug/netcoreapp2.0/codedemo.runtimeconfig.dev.json
+/Users/simon/code/codedemo/bin/Debug/netcoreapp2.0/codedemo.dll
+/Users/simon/code/codedemo/bin/Debug/netcoreapp2.0/codedemo.pdb
+/Users/simon/code/codedemo/obj/Debug/netcoreapp2.0/codedemo.csproj.CoreCompileInputs.cache
+/Users/simon/code/codedemo/obj/Debug/netcoreapp2.0/codedemo.AssemblyInfoInputs.cache
+/Users/simon/code/codedemo/obj/Debug/netcoreapp2.0/codedemo.AssemblyInfo.cs
+/Users/simon/code/codedemo/obj/Debug/netcoreapp2.0/codedemo.dll
+/Users/simon/code/codedemo/obj/Debug/netcoreapp2.0/codedemo.pdb
